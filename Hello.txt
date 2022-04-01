@@ -9,3 +9,5 @@ Creating new branch
 Adding new line
 
 second line
+
+Editing from VS Code Editor
